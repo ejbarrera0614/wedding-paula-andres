@@ -11,6 +11,10 @@
 * 	Template Style 
 *
 * ======================================================= */
+* {  
+  scroll-behavior: smooth;
+}
+
 body {
   /* font-family: "Work Sans", Arial, sans-serif; */
   font-family: 'Manstein';
